@@ -20,5 +20,7 @@ JavaScript https://learn.javascript.ru/
 
 ________________________________________
 
+## Language:
+English - A2
 
 
